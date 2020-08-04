@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.aussieaddons-devel" name="Aussie Add-ons (development)" provider-name="Aussie Add-ons" version="1.0.0">
+<addon id="repository.aussieaddons-devel" name="Aussie Add-ons (development)" provider-name="Aussie Add-ons" version="1.1.0">
    <extension point="xbmc.addon.repository" name="Aussie Add-ons Development Repository">
-      <info compressed="false">http://aussieaddons.com/repository-devel/addons.xml</info>
-      <checksum>http://aussieaddons.com/repository-devel/addons.xml.md5</checksum>
-      <datadir zip="true">http://aussieaddons.com/repository-devel/</datadir>
+      <info compressed="false">https://aussieaddons.com/repository-devel/addons.xml</info>
+      <checksum>https://aussieaddons.com/repository-devel/addons.xml.md5</checksum>
+      <datadir zip="true">https://aussieaddons.com/repository-devel/</datadir>
    </extension>
    <extension point="xbmc.addon.metadata">
       <summary>Install Aussie Add-ons (development) plugins</summary>
